@@ -1,10 +1,10 @@
 # متطلبات التنصيب #
-OWNER = ["s_e_t"]
-OWNER_NAME = "teto"
-BOT_TOKEN = "6022370529:AAHM5anvuHDDhKN52ypmcoKTLWnWFEPVDDE"
-DATABASE = "mongodb+srv://Elkber:Elkber@cluster0.feuljpn.mongodb.net/?retryWrites=true&w=majority"
-CHANNEL = "https://t.me/kkk8lI"
-GROUP = "https://t.me/PP_5U"
-VIDEO = "https://telegra.ph/file/d7036697fe29ed3ea52ce.jpg"
+OWNER = ["Y_o_v"]
+OWNER_NAME = "Yousef"
+BOT_TOKEN = "7174292153:AAFU5IpNoEpDh_Rr1QG_cm58q6MmkjuXHhU"
+DATABASE = "mongodb+srv://dvevdvrc:zzxxzzxx@cluster0.hj8crc1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+CHANNEL = "https://t.me/cecrr"
+GROUP = "https://t.me/F_U_O"
+VIDEO = "https://graph.org/file/4f89eab4c95ae1f68d826.jpg"
 LOGS = "teto"
 
